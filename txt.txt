@@ -1,0 +1,19 @@
+<html>
+
+<head>
+    <!-- Browser Ke liye jaruri hai head me hum 
+     wo cheeje likhte hia jo hogi 
+     lekin user ko nahi dikhai degi  SEO ke-->
+    <title>Home</title>
+
+</head>
+
+<body>
+
+    <!-- Body jo bhi likhege wo user dikhega -->
+    <h1>Hello Student</h1>
+
+</body>
+
+
+</html>
