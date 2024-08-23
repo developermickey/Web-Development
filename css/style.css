@@ -1,0 +1,44 @@
+* {
+    /* element ke bahar se space ko create karta hai  */
+    margin: 0; 
+    /* element ke andar se space ko create karta hai  */
+
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+/* Color BG, Font Size, margin , padding , alignment design */
+
+
+.container {
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    margin: 10px;
+    /* padding: 16px; */
+    /* text-align: center; */
+    position: relative;
+    text-align: center;
+}
+
+/* .container h3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+.container h3 {
+    color: #f8c437;
+    font-size: 1rem;  
+    text-align: center;
+}
+
+/* Flex Grid */
+
